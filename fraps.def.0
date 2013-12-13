@@ -1,0 +1,3 @@
+LIBRARY	"fraps"
+EXPORTS
+GetD3D9DeviceFunctionAddress
